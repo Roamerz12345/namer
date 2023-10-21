@@ -2,7 +2,7 @@
 
 # token to access porndb.
 # sign up here: https://metadataapi.net/register
-porndb_token = ****************************************
+porndb_token = p4yATizVgE9xPVIsxGqqar8aXbtKL3yZ2qhEYwe2fe284a88
 
 # How to write output file name.  When namer.py is run this is applied in place 
 # (next to the file to be processed).
